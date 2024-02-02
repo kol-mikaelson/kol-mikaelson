@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Malware Analysis Project(Project Lead at CSY Club IIITK/OWASP)<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React,Flutter<br>
+🔭 I’m currently working on Malware Analysis Project(Project Lead at CSY Club IIITK/OWASP)<br>👯 I’m looking to collaborate on AI/Cyber Projects <br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning LLM and GenAI<br>
 
 
 # 💻 Tech Stack:
